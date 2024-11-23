@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Hello, I'm Naqeeb Ch 👋
 
-<!--
-**NaqeebCh/NaqeebCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner software engineering student at [VU EDU PK](https://www.vu.edu.pk/), learning to code and build cool projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍🎓 Software Engineering student at **VU EDU PK**
+- 🌱 Currently learning Python, Java, and Web Development
+- 💻 I love coding and working on small projects
+- 📚 I enjoy learning new technologies and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Currently Learning)
+- **Languages**: Python, Java, HTML, CSS
+- **Tools**: VS Code, Git, GitHub
+# Thanks for visiting my profile! 🌟
